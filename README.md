@@ -9,4 +9,6 @@ Default Admin Password: 1234
 Default Student ID: s1234
 Default Student Password: password
 
+Login Screen:
+![image](https://user-images.githubusercontent.com/54413952/110195361-3b9b4d00-7e02-11eb-9187-ba293dad368e.png)
 
